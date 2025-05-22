@@ -1,5 +1,5 @@
 import { OrderRepository } from '../../data/repositories/orderRepository';
-import { CouponService } from './CouponService';
+import { CouponService } from './couponService';
 import { ShippingMethodService } from './shippingMethodService';
 import { PaymentService } from './paymentService';
 
