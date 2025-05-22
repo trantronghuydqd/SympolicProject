@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { CouponService } from '../../business/services/CouponService';
+import { CouponService } from '../../business/services/couponService';
 
 const CartContext = createContext();
 
